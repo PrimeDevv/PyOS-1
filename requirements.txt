@@ -1,0 +1,9 @@
+1. Python 3
+2. Colorama
+3. Random
+4. Math
+5. Time
+6. Visual Studio Code (optional, helps make it more efficient.)
+7. Repl (Optional go here to run on browser: https://replit.com)
+
+10. Join CodeBro29 Official Discord Server (https://discord.io/CodeBro29)
